@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Gen AI...
 - 💞️ I’m looking to collaborate on projects related to ML,DL,NLP & Gen AI...
 - 📫 Reach me via my email:suvankarmaitycollege@gmail.com / suvankarmaity@icloud.com / suvankarmaity@hotmail.com
+- Portfolio Link- https://www.datascienceportfol.io/suvankarmaity
 
 
 <!---
