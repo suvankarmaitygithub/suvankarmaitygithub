@@ -1,6 +1,6 @@
 # 👨‍💻 Suvankar Maity - Data Scientist
 
-![Data Science Banner](https://quotefancy.com/media/wallpaper/3840x2160/124438-Bill-Gates-Quote-A-breakthrough-in-machine-learning-would-be-worth.jpg)
+![Data Science Banner](https://www.facebook.com/photo/?fbid=6341651305954210&set=a.235907149862020)
 
 - 👋 Hi, I’m Suvankar a Data Scientist based on Kolkata.
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning, NLP, Gen AI.
