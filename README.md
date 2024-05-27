@@ -56,20 +56,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=suvankarmaitygithub&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-## Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-github-suvankarmaitygithub&theme=algolia)
-
-## Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-github-suvankarmaitygithub&theme=react-dark)
-
-## Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-suvankarmaitygithub&repo=repository-name&theme=radical)](https://github.com/suvankarmaitygithub/repository-name)
-
-## GitHub Skyline
-![GitHub Skyline](https://skyline.github.com/suvankarmaitygithub/2023)
-
-## Quotes
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 ## Profile Summary Cards
 ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suvankarmaitygithub&theme=monokai)
