@@ -1,6 +1,6 @@
 # 👨‍💻 Suvankar Maity - Data Scientist
 
-![Data Science Banner](https://www.facebook.com/photo/?fbid=6341651305954210&set=a.235907149862020)
+![Data Science Banner](https://unsplash.com/photos/closeup-photo-of-eyeglasses-w7ZyuGYNpRQ)
 
 - 👋 Hi, I’m Suvankar a Data Scientist based on Kolkata.
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning, NLP, Gen AI.
