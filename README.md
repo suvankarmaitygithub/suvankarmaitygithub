@@ -36,13 +36,6 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop)
 
-## 📫 Contact Me
-
-Feel free to reach out if you have any questions or collaboration ideas!
-
-- Email: [Suvankar](mailto:suvankarmaity@zohomail.in)
-- LinkedIn: [Suvankar](https://www.linkedin.com/in/suvankar-maity/)
-- Twitter: [Suvankar](https://twitter.com/suvo64king)
 
 ## 🌐 Connect with Me
 
@@ -58,6 +51,11 @@ Feel free to reach out if you have any questions or collaboration ideas!
 ## 🏆 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suvankarmaitygithub&layout=compact&theme=radical)
+
+## GitHub Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=suvankarmaitygithub&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
 
 ---
 
