@@ -1,4 +1,4 @@
-# 👨‍💻 Suvankar Maity - Data Scientist
+# 👨‍💻 Suvankar Maity - Data Scientist (https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ![Data Science Banner](https://media.licdn.com/dms/image/D5616AQEwZPIkVks5Kw/profile-displaybackgroundimage-shrink_350_1400/0/1710293475807?e=1722470400&v=beta&t=tlEbAbzPcnKR2Q8kAGpP5WXyBc36VJgktMZpzOEW_RQ)
 
