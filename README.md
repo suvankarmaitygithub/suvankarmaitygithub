@@ -1,5 +1,5 @@
 ![Data Science Banner](https://media.licdn.com/dms/image/D5616AQEwZPIkVks5Kw/profile-displaybackgroundimage-shrink_350_1400/0/1710293475807?e=1722470400&v=beta&t=tlEbAbzPcnKR2Q8kAGpP5WXyBc36VJgktMZpzOEW_RQ)
-# 👨‍💻 Hi ![Hi](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Suvankar Maity a Data Scientist based on Kolkata.
+# 👨‍💻 Hi ![Hi](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Suvankar Maity a Data Scientist based on Kolkata.
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning, NLP, Gen AI.
 - 🌱 I’m currently learning Gen AI...
 - 💞️ I’m looking to collaborate on projects related to ML,DL,NLP & Gen AI...
